@@ -6,8 +6,8 @@
 **Submitted by:** Rahul Solanki  
 **Internship Role:** Virtual Intern  
 **Organization:** Hack Culprit  
-**GitHub Profile:** https://github.com/rahulsolanki2005
-**Project Duration:** 7/10/2025 – 14/10/2025 
+**GitHub Profile:** https://github.com/rahulsolanki2005                           
+**Project Duration:** 7/10/2025 – 14/10/2025                                
 **Project Repository:** https://github.com/rahulsolanki2005/HackCulprit_Passwaord-Breach-Checker
 
 ---
