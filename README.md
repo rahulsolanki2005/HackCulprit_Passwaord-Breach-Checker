@@ -64,8 +64,7 @@ This project helps them verify that securely, using a fast and privacy-preservin
 ### Steps to Run
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/password-breach-checker.git
-cd password-breach-checker
+git clone https://github.com/rahulsolanki2005/HackCulprit_Passwaord-Breach-Checker
 
 # (Optional) create & activate a virtual environment
 python -m venv myenv
@@ -82,6 +81,8 @@ pip install streamlit requests
 # Run the Streamlit app
 streamlit run app.py
 Note: Passwords are hashed locally — only the first 5 characters of the SHA-1 hash are sent to the HIBP API (k-anonymity model).
+
+```
 
 🌟 Key Features
 🔐 Privacy-preserving password breach checking.
