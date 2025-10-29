@@ -92,12 +92,10 @@ Note: Passwords are hashed locally — only the first 5 characters of the SHA-1 
   - 💬 Developer expander to view raw API response for debugging.
 
 ## 📸 Demonstration
-Run the app → type any password → click Check Password.
-The tool will display:
-
-🚨 Warning if the password was found in breaches (with count).
-
-✅ Success message if not found.
+  - Run the app → type any password → click Check Password.
+  - The tool will display:
+    | - 🚨 Warning if the password was found in breaches (with count).
+  - ✅ Success message if not found.
 
 
 ## 🧗 Challenges Faced
