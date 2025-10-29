@@ -53,8 +53,6 @@ This project helps them verify that securely, using a fast and privacy-preservin
 | Hashing | hashlib (SHA-1) |
 | Dev Tools | Git, GitHub, VS Code |
 
-> **API Used:** [Have I Been Pwned - Pwned Passwords Range API](https://api.pwnedpasswords.com/range/)
-
 ---
 
 ## 🧰 Installation & Setup
