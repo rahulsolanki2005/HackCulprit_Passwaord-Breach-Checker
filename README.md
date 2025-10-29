@@ -84,18 +84,14 @@ Note: Passwords are hashed locally — only the first 5 characters of the SHA-1 
 
 ```
 
-🌟 Key Features
-🔐 Privacy-preserving password breach checking.
+## 🌟 Key Features
+  - 🔐 Privacy-preserving password breach checking.
+  - ⚡ Fast results via cached API responses.
+  - 🧠 Secure local SHA-1 hashing, no password ever leaves your machine.
+  - 🧾 Clean and modular Python codebase.
+  - 💬 Developer expander to view raw API response for debugging.
 
-⚡ Fast results via cached API responses.
-
-🧠 Secure local SHA-1 hashing, no password ever leaves your machine.
-
-🧾 Clean and modular Python codebase.
-
-💬 Developer expander to view raw API response for debugging.
-
-📸 Demonstration
+## 📸 Demonstration
 Run the app → type any password → click Check Password.
 The tool will display:
 
@@ -103,9 +99,8 @@ The tool will display:
 
 ✅ Success message if not found.
 
-Add screenshots or a demo video link here once hosted.
 
-🧗 Challenges Faced
+## 🧗 Challenges Faced
 Dealing with network failures or API timeouts.
 
 Parsing the HIBP response efficiently (line format HASH_SUFFIX:COUNT).
@@ -114,7 +109,7 @@ Avoiding in-memory retention of plaintext passwords.
 
 Ensuring responsive and clean Streamlit UX.
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 Deploy app to cloud platforms (e.g., Render, Heroku).
 
 Add batch password check (from a local CSV file).
@@ -125,13 +120,13 @@ Add Dockerfile for reproducibility.
 
 Implement dark mode UI and localization.
 
-🏁 Conclusion
+## 🏁 Conclusion
 The Password Breach Checker provided practical exposure to secure app design, Python web development, and cybersecurity principles.
 It’s a compact, educational, and functional project that demonstrates both privacy-first thinking and professional coding discipline.
 
-🙏 Acknowledgements
+## 🙏 Acknowledgements
 Thanks to the Hack Culprit Team for the virtual internship opportunity, mentorship, and support.
 Special thanks to peers who provided guidance during the development process.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License — see LICENSE for details.
