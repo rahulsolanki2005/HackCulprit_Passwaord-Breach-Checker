@@ -94,37 +94,30 @@ Note: Passwords are hashed locally — only the first 5 characters of the SHA-1 
 ## 📸 Demonstration
   - Run the app → type any password → click Check Password.
   - The tool will display:
-    | - 🚨 Warning if the password was found in breaches (with count).
+     : 🚨 Warning if the password was found in breaches (with count).
   - ✅ Success message if not found.
 
 
 ## 🧗 Challenges Faced
-Dealing with network failures or API timeouts.
-
-Parsing the HIBP response efficiently (line format HASH_SUFFIX:COUNT).
-
-Avoiding in-memory retention of plaintext passwords.
-
-Ensuring responsive and clean Streamlit UX.
+  - Dealing with network failures or API timeouts.
+  - Parsing the HIBP response efficiently (line format HASH_SUFFIX:COUNT).
+  - Avoiding in-memory retention of plaintext passwords.
+  - Ensuring responsive and clean Streamlit UX.
 
 ## 🚀 Future Enhancements
-Deploy app to cloud platforms (e.g., Render, Heroku).
-
-Add batch password check (from a local CSV file).
-
-Integrate unit tests and CI/CD pipeline.
-
-Add Dockerfile for reproducibility.
-
-Implement dark mode UI and localization.
+  - Deploy app to cloud platforms (e.g., Render, Heroku).
+  - Add batch password check (from a local CSV file).
+  - Integrate unit tests and CI/CD pipeline.
+  - Add Dockerfile for reproducibility.
+  - Implement dark mode UI and localization.
 
 ## 🏁 Conclusion
-The Password Breach Checker provided practical exposure to secure app design, Python web development, and cybersecurity principles.
-It’s a compact, educational, and functional project that demonstrates both privacy-first thinking and professional coding discipline.
+  - The Password Breach Checker provided practical exposure to secure app design, Python web development, and cybersecurity principles.
+  - It’s a compact, educational, and functional project that demonstrates both privacy-first thinking and professional coding discipline.
 
 ## 🙏 Acknowledgements
-Thanks to the Hack Culprit Team for the virtual internship opportunity, mentorship, and support.
-Special thanks to peers who provided guidance during the development process.
+  - Thanks to the Hack Culprit Team for the virtual internship opportunity, mentorship, and support.
+  - Special thanks to peers who provided guidance during the development process.
 
 ## 📜 License
-This project is licensed under the MIT License — see LICENSE for details.
+  - This project is licensed under the MIT License — see LICENSE for details.
